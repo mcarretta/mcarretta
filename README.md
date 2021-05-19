@@ -32,4 +32,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mcarretta&show_icons=true&locale=en" alt="mcarretta" /></p>
 
-[![Spotify](https://mcarretta.vercel.app/api/spotify)](https://open.spotify.com/user/1171927756)
+[![Spotify](https://spotify-github-phi.vercel.app/api/spotify)](https://open.spotify.com/user/1171927756)
