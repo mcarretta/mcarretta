@@ -17,7 +17,7 @@
 
 - 📫 How to reach me **carretta.mtt@gmail.com**
 
-- ⚡ Fun fact: **I am a guitar player and a metalhead, check out my band**
+- ⚡ Fun fact: **I am a guitar player and a metalhead, check out [my band](https://open.spotify.com/artist/0eWZ7uIrAgOnYkgKEFruXP)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
