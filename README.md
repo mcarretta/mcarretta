@@ -7,6 +7,8 @@
 
 - 🔭 I’m currently working on **a paper on Recommender Systems**
 
+- 🎓 Polytechnic University of Milan MSc graduate
+
 - 🌱 I’m currently learning **Computer Vision, BI tools**
 
 - 👯 I’m looking to collaborate on **projects regarding Machine Learning**
