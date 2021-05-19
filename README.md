@@ -2,6 +2,8 @@
 <h3 align="center">A passionate Machine Learning Engineer / Data Scientist</h3>
 [![Linkedin: matteocarretta](https://img.shields.io/badge/-matteo-carretta-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/matteo-carretta-4322ba175/)](https://www.linkedin.com/in/matteo-carretta-4322ba175/)
 [![GitHub mcarretta](https://img.shields.io/github/followers/mcarretta?label=follow&style=social)](https://github.com/mcarretta)
+
+
 - 🔭 I’m currently working on **a paper on Recommender Systems**
 
 - 🌱 I’m currently learning **Computer Vision, BI tools**
