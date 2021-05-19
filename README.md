@@ -21,8 +21,8 @@
 <p align="left">
 <a href="https://linkedin.com/in/matteo-carretta-4322ba175" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/linked-in-alt.svg" alt="matteo-carretta-4322ba175" height="30" width="40" /></a>
 <a href="https://kaggle.com/matteocarretta" target="blank"><img align="center" src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/189_Kaggle_logo_logos-512.png" alt="matteocarretta" height="30" width="40" /></a>
-<a href="https://instagram.com/carrett667" target="blank"><img align="center" src="https://img.shields.io/badge/carrett667-%23E4405F.svg?&style=for-the-badge&logo=Instagram&logoColor=white" alt="carrett667" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/carrett667" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/leet-code.svg" alt="carrett667" height="30" width="40" /></a>
+<a href="https://instagram.com/carrett667" target="blank"><img align="center" src="https://cdn2.iconfinder.com/data/icons/social-icons-33/128/Instagram-512.png" alt="carrett667" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/carrett667" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" alt="carrett667" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
