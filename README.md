@@ -31,3 +31,5 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mcarretta&show_icons=true&locale=en&layout=compact" alt="mcarretta" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mcarretta&show_icons=true&locale=en" alt="mcarretta" /></p>
+
+[![Spotify](https://mcarretta.vercel.app/api/spotify)](https://open.spotify.com/user/1171927756)
