@@ -1,5 +1,5 @@
 <h1 align="center">Hi there, I'm Matteo 👋</h1>
-<h3 align="center">A passionate Machine Learning Engineer / Data Scientist</h3>
+<h3 align="center">A passionate Machine Learning Engineer / Data Scientist from Italy</h3>
 [![Linkedin: matteocarretta](https://img.shields.io/badge/-matteo-carretta-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/matteo-carretta-4322ba175/)](https://www.linkedin.com/in/matteo-carretta-4322ba175/)
 [![GitHub mcarretta](https://img.shields.io/github/followers/mcarretta?label=follow&style=social)](https://github.com/mcarretta)
 
@@ -14,7 +14,7 @@
 
 - 📫 How to reach me **carretta.mtt@gmail.com**
 
-- ⚡ Fun fact **I am a guitar player and a metalhead, check out my band**
+- ⚡ Fun fact: **I am a guitar player and a metalhead, check out my band**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
