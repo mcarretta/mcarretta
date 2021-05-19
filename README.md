@@ -21,7 +21,7 @@
 <p align="left">
 <a href="https://linkedin.com/in/matteo-carretta-4322ba175" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/linked-in-alt.svg" alt="matteo-carretta-4322ba175" height="30" width="40" /></a>
 <a href="https://kaggle.com/matteocarretta" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/kaggle.svg" alt="matteocarretta" height="30" width="40" /></a>
-<a href="https://instagram.com/carrett667" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/instagram.svg" alt="carrett667" height="30" width="40" /></a>
+<a href="https://instagram.com/carrett667" target="blank"><img align="center" src="https://img.shields.io/badge/carrett667-%23E4405F.svg?&style=for-the-badge&logo=Instagram&logoColor=white" alt="carrett667" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/carrett667" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/leet-code.svg" alt="carrett667" height="30" width="40" /></a>
 </p>
 
@@ -32,4 +32,3 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mcarretta&show_icons=true&locale=en" alt="mcarretta" /></p>
 
-[![Spotify](https://spotify-github-phi.vercel.app/api/spotify)](https://open.spotify.com/user/1171927756)
