@@ -5,11 +5,11 @@
 [![GitHub mcarretta](https://img.shields.io/github/followers/mcarretta?label=follow&style=social)](https://github.com/mcarretta)
 
 
-- 🔭 I’m currently working on **a paper on Recommender Systems**
+- 🔭 I’m currently working on **AI Research** applied to Marketing in **Zalando**
 
 - 🎓 Polytechnic University of Milan MSc graduate
 
-- 🌱 I’m currently learning **Computer Vision, BI tools**
+- 🌱 I’m currently learning **Computer Vision, Generative Models**
 
 - 👯 I’m looking to collaborate on **projects regarding Machine Learning**
 
