@@ -1,5 +1,5 @@
 <h1 align="center">Hi there, I'm Matteo 👋</h1>
-<h3 align="center">A passionate Machine Learning Engineer / Data Scientist from Italy, currently in Berlin</h3>
+<h3 align="center">A passionate Applied Scientist / ML Scientist from Italy, currently in Berlin</h3>
 
 [![Linkedin](https://img.shields.io/badge/linked-in-369?style=flat-square&logo=linkedin&logoColor=white&color=blue)](https://www.linkedin.com/in/matteo-carretta-4322ba175/)
 [![GitHub mcarretta](https://img.shields.io/github/followers/mcarretta?label=follow&style=social)](https://github.com/mcarretta)
